@@ -1,0 +1,11 @@
+/*
+	font-family: 'Playfair Display',serif;
+	font-style : italic;
+*/
+/*
+	> display-color: #BD6AC2;
+	> buttons-color, selection-color: #892F8E;
+	> [menu] 
+		- ADD in CSS : on hover border-bottom: 4px solid #892F8E;
+		- REMOVE in style.css : transition ;
+*/
